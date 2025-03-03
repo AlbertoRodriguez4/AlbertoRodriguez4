@@ -22,9 +22,9 @@ I have experience working with a wide range of programming languages and framewo
   I consider myself a dedicated and hardworking developer who always gives 100% in every project. My curiosity and eagerness to learn drive me to constantly explore new technologies and improve my skills. I believe    that clean code, scalability, and maintainability are key to building great software.
   
 🌱 What I'm Currently Doing:
-· Studying Web Application Development to further enhance my knowledge.
-· Working on personal and collaborative projects to apply and refine my skills.
-· Continuously learning and improving, because technology never stops evolving!  
+<p>· Studying Web Application Development to further enhance my knowledge.</p>
+<p>· Working on personal and collaborative projects to apply and refine my skills.</p>
+<p>· Continuously learning and improving, because technology never stops evolving!  </p>
   
   </p>
 
