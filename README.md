@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Alberto Rodriguez and I'm a Higher Technician in Cross-Platform Application Development, that now is currently studying Web Application Development<.</p>
+<p align="left">I am a passionate Software Developer from Zaragoza, Spain, with a strong background in Cross-Platform Application Development and currently expanding my expertise in Web Application Development. With a deep interest in technology and problem-solving, I strive to create efficient, scalable, and high-quality solutions.</p>
 
 ###
 
@@ -10,7 +10,23 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">💻 Tech Stack:
+I have experience working with a wide range of programming languages and frameworks, including:
+  
+· Frontend: JavaScript, TypeScript, Angular, React
+· Backend: NestJS, PHP, C# (.NET), Java
+· Databases: SQL, NoSQL
+· Others: RESTful APIs, Agile methodologies, and best development practices
+  
+🚀 My Approach:
+  I consider myself a dedicated and hardworking developer who always gives 100% in every project. My curiosity and eagerness to learn drive me to constantly explore new technologies and improve my skills. I believe    that clean code, scalability, and maintainability are key to building great software.
+  
+🌱 What I'm Currently Doing:
+· Studying Web Application Development to further enhance my knowledge.
+· Working on personal and collaborative projects to apply and refine my skills.
+· Continuously learning and improving, because technology never stops evolving!  
+  
+  </p>
 
 ###
 
