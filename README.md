@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Alberto Rodriguez and I'm a Higher Technician in Cross-Platform Application Development, that now is currently studying Web Application Development<.</p>
 
 ###
 
