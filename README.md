@@ -19,7 +19,7 @@ I have experience working with a wide range of programming languages and framewo
 <p>· Others: RESTful APIs, Agile methodologies, and best development practices</p>
   
 🚀 My Approach:
-  I consider myself a dedicated and hardworking developer who always gives 100% in every project. My curiosity and eagerness to learn drive me to constantly explore new technologies and improve my skills. I believe    that clean code, scalability, and maintainability are key to building great software.
+  <p>I consider myself a dedicated and hardworking developer who always gives 100% in every project. My curiosity and eagerness to learn drive me to constantly explore new technologies and improve my skills. I believe    that clean code, scalability, and maintainability are key to building great software.</p>
   
 🌱 What I'm Currently Doing:
 <p>· Studying Web Application Development to further enhance my knowledge.</p>
