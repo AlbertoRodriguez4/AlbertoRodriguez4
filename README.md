@@ -13,10 +13,10 @@
 <p align="left">💻 Tech Stack:
 I have experience working with a wide range of programming languages and frameworks, including:
   
-· Frontend: JavaScript, TypeScript, Angular, React
-· Backend: NestJS, PHP, C# (.NET), Java
-· Databases: SQL, NoSQL
-· Others: RESTful APIs, Agile methodologies, and best development practices
+<p>· Frontend: JavaScript, TypeScript, Angular, React</p>
+<p>· Backend: NestJS, PHP, C# (.NET), Java
+<p>· Databases: SQL, NoSQL
+<p>· Others: RESTful APIs, Agile methodologies, and best development practices</p>
   
 🚀 My Approach:
   I consider myself a dedicated and hardworking developer who always gives 100% in every project. My curiosity and eagerness to learn drive me to constantly explore new technologies and improve my skills. I believe    that clean code, scalability, and maintainability are key to building great software.
